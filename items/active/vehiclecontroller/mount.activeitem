@@ -1,0 +1,34 @@
+{
+  "itemName" : "kylvcontroller",
+  "level" : 1,
+  "price" : 100,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Summon you loved pet.",
+  "shortdescription" : "Collar Activator",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "mount.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "rarekyv",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/fliteboard/fliteboardwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "kylvact.png"
+  },
+
+  "inventoryIcon" : "kylvact.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/kylvact.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/kylvact.png:full"
+
+}

@@ -1,0 +1,34 @@
+{
+  "itemName" : "kybinfliteboardcontroller",
+  "level" : 1,
+  "price" : 100,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Its ok.",
+  "shortdescription" : "Fliteboard Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "kybinfliteboard.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "kybinfliteboard",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/fliteboard/fliteboardwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "kybinfliteboardcontroller.png"
+  },
+
+  "inventoryIcon" : "kybinfliteboardcontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/kybinfliteboardcontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/kybinfliteboardcontroller.png:full"
+
+}
