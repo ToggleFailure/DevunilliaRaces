@@ -1,0 +1,22 @@
+{
+  "itemName" : "devunilliaaug1",
+  "price" : 5000,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "healthaugment.png",
+  "description" : "An experiment.",
+  "shortdescription" : "Experimental EA",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "devunilliajumpboost",
+    "displayName" : "Boost",
+    "displayIcon" : "/items/augments/healthaugment.png",
+    "effects" : [ "devunilliajumpboost" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}
