@@ -1,0 +1,11 @@
+{
+  "name" : "kybinheadlamp",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "kybinheadlamp.lua"
+  ],
+
+  "animationConfig" : "kybinheadlamp.animation"
+}

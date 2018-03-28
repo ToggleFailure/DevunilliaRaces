@@ -1,0 +1,32 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 12
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "kybinT8_1.png",
+      "position" : [131.86, 20.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "kybinT8_1lit.png",
+      "position" : [131.86, 20.75]
+    },
+    
+    {
+      "image" : "kybinT8_2.png",
+      "position" : [11.61, 20.75],
+      "fullbright" : true
+    },
+    
+    {
+      "image" : "kybinT8_2lit.png",
+      "position" : [11.61, 20.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "kybinT8blocks.png"
+}

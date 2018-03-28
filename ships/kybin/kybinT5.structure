@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 6
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "kybinT5.png",
+      "position" : [8.64, 16.74],
+      "fullbright" : true
+    },
+    {
+      "image" : "kybinT5lit.png",
+      "position" : [8.64, 16.74]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "kybinT5blocks.png"
+}

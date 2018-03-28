@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 10
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "cloreveldeT7.png",
+      "position" : [12.75, 20.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "cloreveldeT7lit.png",
+      "position" : [12.75, 20.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "cloreveldeT7blocks.png"
+}

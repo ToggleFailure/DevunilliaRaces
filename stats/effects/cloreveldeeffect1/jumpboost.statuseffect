@@ -1,0 +1,14 @@
+{
+  "name" : "devunilliajumpboost",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "jumpboost.lua"
+  ],
+
+  "animationConfig" : "jumpboost.animation",
+
+  "label" : "Boost",
+  "icon" : "/stats/effects/devunilliaeff1.png"
+}
