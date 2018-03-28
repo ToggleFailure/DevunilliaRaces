@@ -1,0 +1,13 @@
+{
+	"id" : "devunilliacompanybook1",
+	"title" : "The Company's of Checknovia 1",
+	"description" : "What they are.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "So much like any moderately advanced planet Checknovia has its own companies, And in this first book we shall cover the 2 commonly known companys of Checknos with out going into detail to much.","The first company is the main suplier of millitary grade supplies the Cilvendia S Evet T Nosct Chescos or in non Devunllian it translates roughly to Company for the Beterment of Checknovia it as you may have guesed makes weapons and other stuff for civillians.","The other big company is one that is split into 3 braches and is essentialy the its equivelent to a super market as well it is called differently depending on species but the most common one seems to The Company of everything, its three branches are Furniture Developement, Clothe Design, and Vehicle and Vetinarian care."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

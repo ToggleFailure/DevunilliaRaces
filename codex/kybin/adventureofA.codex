@@ -1,0 +1,14 @@
+{
+	"id" : "AAADVENTURE",
+	"title" : "diary",
+	"description" : "The diary of a lost soul.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "I found a village of about about 50 or so kybins,i had heard rumors that their were some steampunk barmen from the penguins and i honestly could not stand them any longer so i said screw it and went anyways what i found was actually pretty cool their was a village in this cold frozen being heated and powered using only steam when i got to the top of the ladder it was a mix of mostly american and steampunk
+steampunk it was quite neet. so i asked around town turns out this place is called the circle and is a important town."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

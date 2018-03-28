@@ -1,0 +1,13 @@
+{
+	"id" : "cloreveldediary",
+	"title" : "Survivors Log",
+	"description" : "The diary of a lost soul.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "You are a Clorevelde a species very simmilar to geckos of earth."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

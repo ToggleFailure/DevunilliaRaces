@@ -1,0 +1,19 @@
+[{
+		"op" : "add",
+		"path" : "/species/kybin",
+		"value" : {
+			"aiFrames" : "kybinAI.png",
+			"portraitFrames" : "portraits/kybinportrait.png",
+			"staticFrames" : "statickybin.png"	
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/species/clorevelde",
+		"value" : {
+			"aiFrames" : "cloreveldeAI.png",
+			"portraitFrames" : "portraits/cloreveldeportrait.png",
+			"staticFrames" : "staticclorevelde.png"	
+		}
+	}
+]

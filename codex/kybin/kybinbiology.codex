@@ -1,0 +1,13 @@
+{
+	"id" : "kybinbiology",
+	"title" : "What are the Rephybridians",
+	"description" : "A basic summary of the Rephybridian Races.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "The planet which kybins and their two alied compatiots originate from what is of the many planets in space that should not be able to support life","on this planet there are 3 Sapient Species all allied and all of them live in a different biome for the most part","the Kybin a cold blooded mammal living in the second biggestbiome of their planet Cheknovia called the ice waste.","The Clorevelde the warm blooded relative of the kybin living in the smallest biome the tropical swamps.","And last The Metos they live in one of the harshest desert in the univierse they look like a bird crossed with the kybin, while being related to kybins and clorevelde they seem to have a evolved from a different species."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

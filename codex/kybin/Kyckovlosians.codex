@@ -1,0 +1,13 @@
+{
+	"id" : "onlydevunil",
+	"title" : "For you my grandchild",
+	"description" : "the last letter you ever recieved from Travesty.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "I know its been a while and i know you want to come visit me but dont worry im a strong old Metos that being said the docters only think ive got at most a few more months but I am very happy with you.","I remember the first time you hunted a farvette i still have the hat you made out of it i also remember if i had not been ther you would not be recieving this letter today","Anyways back to the topic at hand in my will i have left you a very well you know when you get it its from my time as a oh yeah i cant ever tell anyone well its important later so dont lose it and for now goodebye."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

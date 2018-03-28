@@ -1,0 +1,13 @@
+{
+	"id" : "kybinculture3",
+	"title" : "Kybin Culture: age marks",
+	"description" : "age things.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "Kybins have a planet that takes 414 earth day to rotate their sun in this book i will tell you about what they do at certain ages. Kybins dont start hunting till they are 4 cyklo old or 1,656 earth days old and they start out with a blunt stick covered in heavy metals called a beating rod its main use is breaking the skull of what ever gets with in tackle distance, at 6 cyklo they get a shotgun equal to a 12 gauge rated for 30 meters and typicaly firing a slug,"," at 15 cyclos you either joined the protectorate or you will go to the main planet of the kybins Kykomania and get 3 year of millitary traning after that you are now free to do what ever you want."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"id" : "devunilliacompanybook2",
+	"title" : "Company For Betterment of Checknovia",
+	"description" : "The diary of a lost soul.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "Cilvendia S Evet T Nosct Chescos or as read above is an absolute behemoth of a company with 3 main braches and many smallers ones the three main branches are as follows Kybin's Branch of Implements Developement, Tasked with making weapons and tools as well as aquiring metals and the like,","Clorevelde Branch of Protective Device,  Tasked with armor, shield, and othe clothes, Metos Branch Vehicle and Medical Supplies, they make vehicles armor for their pets, medical suplies, and space ships. Most of the smaller branches are to do with constuction."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

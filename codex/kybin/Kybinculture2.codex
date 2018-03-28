@@ -1,0 +1,13 @@
+{
+	"id" : "kybinculture2",
+	"title" : "Clorevelde and their natural habitat",
+	"description" : "Clorevelde and their population sparse ecosystem.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "Clorevelde live in the smallest and most habitable area on the planet liveing in the tropical like areas with average temp of 60 to 80 all year round","They are the only species in the Reptohybridian Familly to be truely warm-blooded","They are the only Reptohybridian able to eat tomato whether cooked or raw matters not","In terms of plants they have only 4 Species of plants an a total of 31 altogether","For sake of your sanity ill keep this short they have 1 tree species 10 berry species and the rest are types of carniverous plants that can often move a foot per minute.","they have 10 species of animals all but three are medium sized herbivore like the Muvas and the delicious Mehkit which is a giant birdlike animal","Clovendi is a medium scaled omnivore it seems to be quit smmilar to a kylevsorian in that they are very dangerous when provoked and they are quit easily tamed."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
