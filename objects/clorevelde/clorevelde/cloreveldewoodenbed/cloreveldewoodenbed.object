@@ -1,0 +1,42 @@
+{
+  "objectName" : "cloreveldewallbed",
+  "colonyTags" : ["clorevelde"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A bed that mounts to the wall one of 3 models.",
+  "shortdescription" : "Clorevelde Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 45,
+  "apexDescription" : "How do tho.",
+  "avianDescription" : "its comfy but how does it stay in the wall?",
+  "floranDescription" : "Floran rarely ssleep in ssuch nice bed.",
+  "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
+  "humanDescription" : "Your advanced, comfy bed.",
+  "hylotlDescription" : "A good place to close one's eyes.",
+  "novakidDescription" : "A decent place to get some shut-eye.",
+  "kybinDescription" : "Its an okay bed.",
+  "cloreveldeDescription" : "Back home it was like 12 ft of the ground.",
+  "inventoryIcon" : "cloreveldewoodenbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "cloreveldewoodenbed.png:<color>",
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/clorevelde/clorevelde/cloreveldewoodenbed/cloreveldewoodenbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

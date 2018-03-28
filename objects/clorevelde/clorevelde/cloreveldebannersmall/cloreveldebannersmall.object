@@ -1,0 +1,30 @@
+{
+  "objectName" : "devunilliapeacebannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small clorevelde wallbanner from a clorevelde academy.",
+  "shortdescription" : "Small clorevelde Wall Banner",
+  "race" : "clorevelde",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small clorevelde banner...",
+  "humanDescription" : "The clorevelde banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "cloreveldeDescription" : "This means were safe since its the smaller one",  
+  "kybinDescription" : "I ran out of pixels",  
+  "inventoryIcon" : "cloreveldebannersmall.png",
+  "orientations" : [
+    {
+      "image" : "cloreveldebannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}
