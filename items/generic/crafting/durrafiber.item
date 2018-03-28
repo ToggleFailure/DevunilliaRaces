@@ -1,0 +1,13 @@
+{
+  "itemName" : "a_durrablefiber",
+  "price" : 5,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "durrafiber.png",
+  "description" : "A bundle of Durrasteel and Copper threads.",
+  "shortdescription" : "Durrafiber",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "platematerial"
+  ]
+}

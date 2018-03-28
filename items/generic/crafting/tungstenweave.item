@@ -1,0 +1,10 @@
+{
+  "itemName" : "a_tungstenfabric",
+  "price" : 50,
+  "rarity" : "Uncommon",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "tungstenweave.png",
+  "description" : "A square of extremely well crafted Tungsten Fabric.",
+  "shortdescription" : "Tungsten Fabric",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,5 @@
+[ {
+	"op": "add",
+	"path": "/fastslash",
+	"value": "/items/active/weapons/melee/abilities/fastslash/fastslash.weaponability"
+  }]

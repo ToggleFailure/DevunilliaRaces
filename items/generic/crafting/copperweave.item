@@ -1,0 +1,10 @@
+{
+  "itemName" : "a_copperfibers",
+  "price" : 10,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "copperweave.png",
+  "description" : "A small square of carefuly woven copper fiber.",
+  "shortdescription" : "Metalic Copper Weave",
+  "itemTags" : [ "reagent" ]
+}

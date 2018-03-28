@@ -1,0 +1,10 @@
+{
+  "itemName" : "a_titansilk",
+  "price" : 100,
+  "rarity" : "Uncommon",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "titansilk.png",
+  "description" : "A square of high quality titanium textile",
+  "shortdescription" : "Titanium Fabric",
+  "itemTags" : [ "reagent" ]
+}
