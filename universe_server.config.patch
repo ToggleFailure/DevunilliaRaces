@@ -1,0 +1,30 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/kybin",
+		"value" : [
+		    "/ships/kybin/kybint0.structure",
+			"/ships/kybin/kybint1.structure",
+			"/ships/kybin/kybint2.structure",
+			"/ships/kybin/kybint3.structure",
+			"/ships/kybin/kybint4.structure",
+			"/ships/kybin/kybint5.structure",
+			"/ships/kybin/kybint6.structure",
+			"/ships/kybin/kybint7.structure",
+			"/ships/kybin/kybint8.structure"
+		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/clorevelde",
+		"value" : [
+		    "/ships/clorevelde/cloreveldet0.structure",
+			"/ships/clorevelde/cloreveldet1.structure",
+			"/ships/clorevelde/cloreveldet2.structure",
+			"/ships/clorevelde/cloreveldet3.structure",
+			"/ships/clorevelde/cloreveldet4.structure",
+			"/ships/clorevelde/cloreveldet5.structure",
+			"/ships/clorevelde/cloreveldet6.structure",
+			"/ships/clorevelde/cloreveldet7.structure",
+			"/ships/clorevelde/cloreveldet8.structure"
+		]
+	}
+]

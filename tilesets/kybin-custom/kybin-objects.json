@@ -1,0 +1,88 @@
+{ "margin":0,
+ "name":"Kybinsteamstuff",
+ "properties":
+    {
+
+    },
+ "spacing":0,
+ "tilecount":6,
+ "tileheight":64,
+ "tileproperties":
+    {
+     "0":
+        {
+         "\/\/shortdescription":"Kybin Light",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"bluelantern",
+         "tilesetDirection":"right"
+        },
+     "1":
+        {
+         "\/\/shortdescription":"Kybin Bed",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"kybinbed",
+         "tilesetDirection":"right"
+        },
+     "2":
+        {
+         "\/\/shortdescription":"Kybin Door",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"kybindoor",
+         "tilesetDirection":"right"
+        },
+     "3":
+        {
+         "\/\/shortdescription":"Kybin Chair",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"kybinchair",
+         "tilesetDirection":"right"
+        },
+      "4":
+        {
+         "\/\/shortdescription":"Kybin Table",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"kybintable1",
+         "tilesetDirection":"right"
+        },
+     "5":
+        {
+         "\/\/shortdescription":"Kybin Box",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"kybinbox1",
+         "tilesetDirection":"right"
+        }
+    },
+ "tiles":
+    {
+     "0":
+        {
+         "image":"..\/..\/..\/..\/tiled\/kybin-custom\/objects\/bluelantern.png"
+        },
+     "1":
+        {
+         "image":"..\/..\/..\/..\/tiled\/kybin-custom\/objects\/kybinbed.png"
+     "2":
+        {
+         "image":"..\/..\/..\/..\/tiled\/kybin-custom\/objects\/kybindoor.png"
+        },
+     "3":
+        {
+         "image":"..\/..\/..\/..\/tiled\/kybin-custom\/objects\/kybinchair.png"
+        },
+     "4":
+        {
+         "image":"..\/..\/..\/..\/tiled\/kybin-custom\/objects\/kybintable.png"
+        },
+     "5":
+        {
+         "image":"..\/..\/..\/..\/tiled\/kybin-custom\/objects\/kybintable.png"
+        }
+    },
+ "tilewidth":216
+}

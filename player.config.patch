@@ -1,0 +1,2 @@
+[{ "op" : "add", "path" : "/defaultCodexes/kybin", "value" : [ "protectorate1", "protectorate2", "kybinbiology", "kybinculture", "kybinculture2", "kybinculture3", "devunilliacompanybook1", "devunilliacompanybook2" ] },{ "op" : "add", "path" : "/defaultCodexes/clorevelde", "value" : [ "protectorate1", "protectorate2", "cloreveldediary", "devunilliacompanybook1", "devunilliacompanybook2" ] }
+]

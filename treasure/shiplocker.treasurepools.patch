@@ -1,0 +1,34 @@
+[
+  {
+    "op": "add",
+    "path": "/kybinStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "kybinsword", 1 ]},
+        {"item" : [ "kybinstarterhat", 1 ]},
+        {"item" : [ "kybinstarterchest", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]}
+      ]
+    }]
+  ]
+  },{
+    "op": "add",
+    "path": "/cloreveldeStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "cloreveldesword", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]}
+      ]
+    }]]
+  }
+]
