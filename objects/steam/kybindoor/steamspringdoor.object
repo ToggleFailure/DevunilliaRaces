@@ -1,0 +1,61 @@
+{
+  "objectName" : "kybindoor",
+  "colonyTags" : ["door"],
+  "printable" : true,
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 115,
+  "description" : "A reinforced door because everything wants you dead.",
+  "shortdescription" : "Kybin Pipe Door",
+  "race" : "generic",
+
+  "kybinDescription" : "ah i remember my first fight got thrown into this door by the bartender she was one strong lady", "apexDescription" : "I wonder if the brass pipes in this door help keep it sturdy?",
+  "avianDescription" : "The brass pipes on this door really help it stand out.",
+  "floranDescription" : "Floran wondersss if door has tactical usesss?",
+  "glitchDescription" : "Approving. A sturdy looking door.",
+  "humanDescription" : "Does this door actually need brass pipes on it?",
+  "hylotlDescription" : "An acceptable door, with some sort of brass pipe frame.",
+  "novakidDescription" : "The kind o' door I'd think to see at a Sheriff's house.",
+  "cloreveldeDescription" : "Iv seen Kybins get thrown into it and jump right back up",
+
+  "inventoryIcon" : "steamdooricon.png",
+
+  "tooltipKind" : "door",
+  "largeImage" : "steamdoor.png:right",
+  
+  "orientations" : [
+    {
+      "image" : "steamdoor.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/wooddoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/wooddoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "steamdoor.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}
