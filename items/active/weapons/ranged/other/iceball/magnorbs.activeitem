@@ -1,0 +1,58 @@
+{
+  "itemName" : "c2frostball",
+  "level" : 3,
+  "price" : 5000,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "An experiment done right these are one of the few weapons the Clorevelde made on their own.",
+  "shortdescription" : "Cold Magnetic Ball",
+  "tooltipKind" : "base",
+  "category" : "uniqueWeapon",
+  "twoHanded" : true,
+  "itemTags" : ["weapon"],
+    "elementalType" : "electric",
+
+  "inventoryIcon" : "icon.png",
+  "animation" : "magnorbs.animation",
+  "animationParts" : {
+    "glove" : "glove.png",
+    "orb1" : "orb.png",
+    "orb2" : "orb.png",
+    "orb3" : "orb.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["magnorbs.lua"],
+
+  "orbitRate" : 1.2,
+
+  "projectileType" : "devunilliafrostball",
+  "projectileParameters" : {
+    "power" : 4.2,
+    "knockback" : 3,
+
+    "returnOnHit" : true,
+    "ignoreTerrain" : false,
+    "controlForce" : 140,
+    "pickupDistance" : 1.5,
+    "snapDistance" : 4.0
+  },
+
+  "shieldKnockback" : 10,
+  "shieldEnergyCost" : 80,
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : 10,
+      "twoHanded" : false,
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "shield" : {
+      "armRotation" : 0,
+      "twoHanded" : false,
+      "allowRotate" : true,
+      "allowFlip" : true
+    }
+  }
+}

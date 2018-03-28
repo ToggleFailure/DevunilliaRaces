@@ -1,0 +1,42 @@
+{
+  "itemName" : "k3spear",
+  "price" : 960,
+  "level" : 4,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "It is meant for being stabbed into the enemys throat effectively taking their head.",
+  "shortdescription" : "K3 Spear",
+  "tooltipKind" : "sword",
+  "category" : "spear",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","spear"],
+
+  "inventoryIcon" : "K3spear.png",
+
+  "animation" : "/items/active/weapons/melee/spear/spear.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "K3spear.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "aimOffset" : -1.0,
+
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "fireTime" : 0.85,
+    "baseDps" : 18.5
+  },
+
+  "altAbilityType" : "spearspin",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

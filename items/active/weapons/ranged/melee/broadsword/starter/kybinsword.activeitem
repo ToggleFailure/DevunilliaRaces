@@ -1,0 +1,28 @@
+{
+  "itemName" : "kybinsword",
+  "price" : 500,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "It came from the moon at least thats what granma said",
+  "shortdescription" : "kybin Sword",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "kybinsword.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "kybinsword.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.8,
+    "baseDps" : 8
+  },
+  "altAbilityType" : "flurry",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

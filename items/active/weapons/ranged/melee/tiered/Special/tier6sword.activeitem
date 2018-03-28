@@ -1,0 +1,28 @@
+{
+  "itemName" : "kybinmgsword",
+  "price" : 500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "made of many posibly illegal subtances",
+  "shortdescription" : "Crysta",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "tier6sword.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "tier6sword.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.7,
+    "baseDps" :  60
+  },
+  "altAbilityType" : "flurry",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
