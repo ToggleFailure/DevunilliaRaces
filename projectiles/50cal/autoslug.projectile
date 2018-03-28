@@ -1,0 +1,19 @@
+{
+  "projectileName" : "12autoslug",
+  "image" : "12autoslug.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "piercing" : true,
+  "physics" : "bullet",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 5.2,
+  "speed" : 120,
+  "damageKind" : "default"
+}

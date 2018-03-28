@@ -1,0 +1,20 @@
+{
+  "projectileName" : "copperseeker",
+  "image" : "copperseeker.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnContact" : [
+    {
+      "actionOnContact" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  
+  "power" : 7.0,
+  "speed" : 75,
+  "damageKind" : "default",
+  "scripts" : [ "homing.lua" ],
+  "ControlForce" : 10
+}

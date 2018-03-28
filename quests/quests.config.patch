@@ -1,0 +1,32 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/kybin",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/kybin",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/clorevelde",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/clorevelde",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
