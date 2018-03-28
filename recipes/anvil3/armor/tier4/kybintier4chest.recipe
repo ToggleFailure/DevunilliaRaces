@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "a_durrablefiber", "count" : 5 },
+    { "item" : "a_titansilk", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "kybin4chest", "count" : 1 },
+  "groups" : [ "craftinganvil3", "armours", "all" ]
+}

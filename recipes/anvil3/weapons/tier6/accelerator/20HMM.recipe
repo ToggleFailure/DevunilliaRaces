@@ -1,0 +1,9 @@
+{
+  "input" : [
+
+    { "item" : "k3sr", "count" : 1 },
+  { "item" : "refinedaegisalt", "count" : 10 }
+  ],
+  "output" : { "item" : "20hmm", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}

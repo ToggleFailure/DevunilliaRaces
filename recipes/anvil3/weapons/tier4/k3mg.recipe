@@ -1,0 +1,9 @@
+{
+  "input" : [
+
+    { "item" : "k1ar", "count" : 1 },
+  { "item" : "durasteelbar", "count" : 10 }
+  ],
+  "output" : { "item" : "k3mg", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

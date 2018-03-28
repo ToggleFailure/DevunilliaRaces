@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "a_titansilk", "count" : 2 },
+    { "item" : "a_tungstenfabric", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "kybin3head", "count" : 1 },
+  "groups" : [ "craftinganvil2", "armours", "all" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 5 },
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "output" : { "item" : "cloreveldewallbed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

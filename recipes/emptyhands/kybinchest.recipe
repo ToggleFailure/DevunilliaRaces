@@ -1,0 +1,6 @@
+{
+  "input" : [
+    { "item" : "leather", "count" : 3 }  ],
+  "output" : { "item" : "kybinstarterchest", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}

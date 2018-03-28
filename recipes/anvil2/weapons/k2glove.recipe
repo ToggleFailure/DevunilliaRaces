@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "a_titansilk", "count" : 1 },
+    { "item" : "copperbar", "count" : 3 }
+  ],
+  "output" : { "item" : "k2glove", "count" : 1 },
+  "groups" : [ "craftinganvil2", "weapons", "all" ]
+}

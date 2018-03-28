@@ -1,0 +1,12 @@
+{
+  "input" : [
+
+    { "item" : "refinedaegisalt", "count" : 5 },
+  
+
+    { "item" : "k3mg", "count" : 1 },
+  { "item" : "k3hmg", "count" : 1 }
+  ],
+  "output" : { "item" : "sfmg", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}

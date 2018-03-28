@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 3 }
+  ],
+  "output" : { "item" : "a_tungstenfabric", "count" : 3 },
+  "groups" : [ "craftingwheel", "ingredients" ]
+}

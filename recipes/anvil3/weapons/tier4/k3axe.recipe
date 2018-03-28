@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 8 },
+    { "item" : "goldbar", "count" : 11 }
+  ],
+  "output" : { "item" : "k3axe", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

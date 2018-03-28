@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 5 },
+    { "item" : "solariumstar", "count" : 5 },
+	{ "item" : "durasteelbar", "count" : 20 }
+  ],
+  "output" : { "item" : "kcuatrifle", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

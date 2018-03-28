@@ -1,0 +1,12 @@
+{
+  "input" : [
+
+    { "item" : "refinedaegisalt", "count" : 5 },
+  
+
+    { "item" : "k3asg", "count" : 1 },
+  { "item" : "k1sg-2", "count" : 1 }
+  ],
+  "output" : { "item" : "truesmokey", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}

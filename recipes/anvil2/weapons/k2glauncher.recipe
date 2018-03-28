@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 6 },
+    { "item" : "titaniumbar", "count" : 6 },
+	{ "item" : "copperbar", "count" : 1 }
+  ],
+  "output" : { "item" : "k2grenadelauncher", "count" : 1 },
+  "groups" : [ "craftinganvil2", "weapons", "all" ]
+}

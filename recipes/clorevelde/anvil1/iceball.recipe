@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 6 },
+    { "item" : "a_copperfibers", "count" : 4 }
+  ],
+  "output" : { "item" : "c2frostball", "count" : 1 },
+  "groups" : [ "craftinganvil2", "weapons", "all" ]
+}
